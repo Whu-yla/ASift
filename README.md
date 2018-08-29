@@ -1,2 +1,2 @@
-# Sift
+# ASift
 Scale-invariant feature transform
